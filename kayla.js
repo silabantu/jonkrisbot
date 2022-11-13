@@ -275,7 +275,7 @@ key: {
 fromMe: false, 
 participant: `0@s.whatsapp.net`, 
 ...(from ? {
-remoteJid: '6287705048235@s.whatsapp.net' } : {}) }, 
+remoteJid: '6289509158681@s.whatsapp.net' } : {}) }, 
 message: { 
 extendedTextMessage: { 
 text: `${m.pushName}`, 
@@ -449,7 +449,7 @@ participant: `0@s.whatsapp.net`,
 "surface": "CATALOG",
 "message": `Kayla Bot WhatsApp${ngazap(prefix)}`,
 "orderTitle": "Kayla Bot WhatsApp${ngazap(prefix)}",
-"sellerJid": "6287705048235@s.whatsapp.net",
+"sellerJid": "6289509158681@s.whatsapp.net",
 "token": "AR40+xXRlWKpdJ2ILEqtgoUFd45C8rc1CMYdYG/R2KXrSg==",
 "totalAmount1000": "500000000000000",
 "totalCurrencyCode": "IDR"
@@ -531,7 +531,7 @@ templateButtons: [
 ]})
 }
 
-const botzkayla = "6287705048235@s.whatsapp.net"
+const botzkayla = "6289509158681@s.whatsapp.net"
 const mark = "0@s.whatsapp.net"
 const timestamp = speed()
 const latensi = speed() - timestamp
@@ -1029,8 +1029,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1048,8 +1048,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1067,8 +1067,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1086,8 +1086,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1105,8 +1105,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1124,8 +1124,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1143,8 +1143,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1162,8 +1162,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1181,8 +1181,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1200,8 +1200,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1219,8 +1219,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1238,8 +1238,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1257,8 +1257,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
@@ -1276,8 +1276,8 @@ mentionedJid:[sender],
 "containsAutoReply": true,
 "mediaType": 1, 
 "thumbnail": ppnyauser,
-"mediaUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ',
-"sourceUrl": 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfMHZ'
+"mediaUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt',
+"sourceUrl": 'https://chat.whatsapp.com/KnbKroBBalAFdGqb1zB9mt'
 }
 }
 })
